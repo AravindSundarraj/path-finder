@@ -47,8 +47,9 @@ Using Java command line
 
 # path-finder - documentation
 # swagger
+````
   http://localhost:9091/path-finder/swagger-ui.html
-  
+````  
 
 #Tech/Framework used
 
