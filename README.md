@@ -1,8 +1,8 @@
-#Project Title : 
+# Project Title : 
 
         path-finder
 
-#Project Description :
+# Project Description :
 ````
  path-finder app is used finds the path between two cities exist or not.
  if the path is found response will be 'yes' otherwise 'no'
@@ -29,12 +29,12 @@ Should return no
 ````
 
  
-#Build :
+# Build :
 ````
 mvn clean build package
 ````
 
-#execute the path-finder:
+# Execute the path-finder:
 
 Using maven Spring Boot plugin 
 ``` 
