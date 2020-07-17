@@ -51,7 +51,7 @@ Using Java command line
   http://localhost:9091/path-finder/swagger-ui.html
 ````  
 
-#Tech/Framework used
+# Tech/Framework used
 
 ````
 Graph data structure is used to implement the path between cities.
@@ -64,7 +64,7 @@ Swagger
 maven
 
 ````
-#Code coverage
+# Code coverage
  ````
 Jacoco plugin is added to generate code coverage report
 
