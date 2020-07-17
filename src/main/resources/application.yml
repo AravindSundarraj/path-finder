@@ -1,0 +1,11 @@
+server:
+    port: 9091
+    servlet:
+      context-path: /path-finder
+
+spring:
+  application:
+    name: path-finder
+
+
+
