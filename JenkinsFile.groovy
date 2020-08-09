@@ -1,7 +1,7 @@
 job('Path-finder-dsl-job'){
     description("First jenkins file")
     scm{
-        git("github.com/AravindSundarraj/path-finder.git", master)
+        git("https://github.com/AravindSundarraj/path-finder.git", 'master')
     }
     triggers{
         scm('* * * * *')
