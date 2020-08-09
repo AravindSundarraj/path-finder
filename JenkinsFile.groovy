@@ -7,7 +7,7 @@ job('Path-finder-dsl-job'){
         scm('* * * * *')
     }
     steps{
-        maven('clean package' , 'path-finder/pom.xml')
+        maven('clean package' , 'pom.xml')
     }
     publishers{
         archiveArtifacts'**/*.jar'
